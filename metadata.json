@@ -1,0 +1,6 @@
+{
+  "name": "AI-Driven Carbon Utilisation Platform",
+  "description": "Interactive industrial CO2 utilization and matchmaking platform with AI prediction, multi-objective optimization, buyer matching, and economic-environmental impact dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
